@@ -20,4 +20,4 @@ onMounted(async () => {
     <h2>Status Backend</h2>
     <p>{{ apiStatus }}</p>
   </main>
-</template>
+</template> 
